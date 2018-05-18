@@ -5,7 +5,7 @@
 * @author Víctor Díaz Fernández.
 * @license Creative Commons 4.0 Attribution
 * @package VDF
-* @version Version 1.0.0
+* @version Version 1.0.1
 */
 
 
@@ -18,12 +18,13 @@
 * - calEMaior: compara dos números de devolve o maior.
 * - ecuacion: devolve a solución dunha ecuación de 1º grao.
 * - eBisesto: determina se un ano é bisesto ou non.
+*
 * As funcións non admiten parámetros; todos os valores deberán ser asignados mediante funcións 'set'.
 *
 * @author Víctor Díaz Fernández.
 * @license Creative Commons 4.0 Attribution
 * @package VDF
-* @version Version 1.0.0
+* @version Version 1.0.1
 */
 class Actividade2 {
 	
